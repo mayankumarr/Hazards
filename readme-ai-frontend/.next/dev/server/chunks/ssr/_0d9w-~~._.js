@@ -683,7 +683,7 @@ const logs = {
             delay: 0
         },
         {
-            text: "✓ Model loaded: GPT-4-turbo",
+            text: "✓ Model loaded: Qwen2.5-Coder",
             type: "success",
             delay: 600
         },
